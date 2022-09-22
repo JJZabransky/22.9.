@@ -1,0 +1,17 @@
+address {
+    background-color:crimson;
+    font-style: normal;
+}
+
+address strong {
+    font-size: 125%;
+}
+
+main {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2{
+    text-align: center;
+}
+
